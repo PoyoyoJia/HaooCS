@@ -45,8 +45,7 @@
 /Code/DataStructure/demo/c-cpp
 
 # visual studio build
-*/x64/Debug/
-*/x64/Release/
-*/x32/Debug/
-*/x32/Release/
-/Code/DataStructure/x64/Debug
+**/x64/Debug
+**/x64/Release/
+**/x32/Debug/
+**/x32/Release/
